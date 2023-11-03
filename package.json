@@ -1,0 +1,36 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is the React learning project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Pranita-jena/Reactjs_learning.git)"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "pranita",
+    "jena"
+  ],
+  "author": "pranita jena",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 2 chrome version ",
+    "last 2 firefox version"
+  ]
+}
