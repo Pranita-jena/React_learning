@@ -24,7 +24,6 @@ const fetchData = async () => {
   console.log(json);
   setListOfRestaurants(json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
 
-
 }
 
   return (
