@@ -19,7 +19,7 @@ const ResturantCard = (props) => {
 
 
     return (
-        <div className="resto-card" style={{backgroundColor: "grey"}}>
+        <div className="resto-card" style={{backgroundColor: "#fofofo"}}>
             <img 
                 className = "rest-logo"
                 alt="rest-logo"
